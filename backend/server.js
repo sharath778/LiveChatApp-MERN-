@@ -13,7 +13,7 @@ import { app, server } from "./socket/socket.js";
 //const app = express();
 
 dotenv.config();
-//cookie parser!
+
 app.use(cookieParser());
 
 const PORT = process.env.PORT || 5000;
