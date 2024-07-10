@@ -18,7 +18,7 @@ An live chat app built with MERN stack, and utilizes self created API's. This li
   * Online user status (Socket.io and React Context)
 
 ## Demo
-[https://github.com/sharath778/LiveChatApp-MERN-/issues/1#issue-2401336392](https://private-user-images.githubusercontent.com/115969653/347546195-9f2bf47a-6169-4030-bff0-7abd6b91349a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA2MzQwMTIsIm5iZiI6MTcyMDYzMzcxMiwicGF0aCI6Ii8xMTU5Njk2NTMvMzQ3NTQ2MTk1LTlmMmJmNDdhLTYxNjktNDAzMC1iZmYwLTdhYmQ2YjkxMzQ5YS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxMFQxNzQ4MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZDkzZTcxNzNmMWU4NGNjMzBmNWE4YzA0NDZlMWYxMTZlOGM2NmMxN2ZhZDE5NWI4OTI4MzgyN2UzOWNjZjU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JFqPU0ce8RbMhIvtae7JqZ7671xV6X7Y1fuEM5KmWuI)
+![chat](https://github.com/sharath778/LiveChatApp-MERN-/assets/115969653/9f2bf47a-6169-4030-bff0-7abd6b91349a)
 
 ## Quickstart Guide
 
